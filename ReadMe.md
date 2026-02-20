@@ -1,4 +1,6 @@
-# ⚡ System Initialized: Saurav Singh
+<a href="https://github.com/SauravSngh01">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=10B981&width=600&lines=Initializing+AI+Core...;Loading+Neural+Networks...;System+Ready:+Saurav+Singh" alt="Typing SVG" />
+</a>
 
 <img src="https://github-readme-stats.vercel.app/api?username=SauravSngh01&theme=dark&hide_border=false&include_all_commits=false&count_private=false" align="right" width="400" />
 
@@ -12,7 +14,16 @@
 ```
 
 ### 🧠 System Architecture & About Me
-I am an AI and Data Analyst with specialization in Generative AI and end-to-end machine learning pipelines. My core expertise lies in architecting and deploying Retrieval-Augmented Generation (RAG) systems to enhance knowledge retrieval accuracy. I am highly proficient in using LangChain, LlamaIndex, and Azure OpenAI to build scalable, production-ready AI features that enhance product capabilities and inform business intelligence.
+
+<details>
+<summary><code>> Execute: cat about_me.txt &nbsp; [Click to Expand Terminal]</code></summary>
+<br>
+
+> **[SYS_LOG]**: User profile loaded successfully.
+> 
+> I am an AI and Data Analyst with specialization in Generative AI and end-to-end machine learning pipelines. My core expertise lies in architecting and deploying Retrieval-Augmented Generation (RAG) systems to enhance knowledge retrieval accuracy. I am highly proficient in using LangChain, LlamaIndex, and Azure OpenAI to build scalable, production-ready AI features that enhance product capabilities and inform business intelligence.
+
+</details>
 
 ---
 
